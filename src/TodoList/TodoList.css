@@ -1,0 +1,21 @@
+.TodoList{
+    width: 412px;
+    padding: 0;
+}
+
+.TodoList__item{
+    display: flex;
+    align-items: center;
+    padding: 13px;
+    border: 1px solid #000;
+    margin: 4px;
+    justify-content: space-between;
+    width: 410px;
+}
+
+.TodoList__text{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 5px;
+
+}

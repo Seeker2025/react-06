@@ -9,9 +9,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button{
+  background-color: rgb(40, 113, 215);
+  margin: 5px;
+  padding: 7px 14px;
+  color: #ffffff;
+  border-radius: 3px;
+  border: 1px solid #ffffff;
 }
